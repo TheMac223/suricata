@@ -1,0 +1,30 @@
+04/14/2024-00:55:52.961630  [**] [1:10001:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.131.128:41110 -> 142.250.207.110:80
+04/14/2024-00:55:53.121553  [**] [1:10001:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.131.128:59988 -> 142.250.76.132:80
+04/14/2024-00:56:09.572756  [**] [1:10011:1] HTTPS To google.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.131.128:44058 -> 172.217.174.110:443
+04/14/2024-00:56:09.851058  [**] [1:10011:1] HTTPS To google.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.131.128:60140 -> 142.250.207.100:443
+04/14/2024-00:56:20.924562  [**] [1:10002:1] facebook.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.131.128:35534 -> 157.240.215.35:80
+04/14/2024-00:56:20.948307  [**] [1:10012:1] HTTPS To facebook.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.131.128:52370 -> 157.240.215.35:443
+04/14/2024-00:56:21.192680  [**] [1:10012:1] HTTPS To facebook.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.131.128:52384 -> 157.240.215.35:443
+04/14/2024-00:56:33.375035  [**] [1:10013:1] HTTPS To youtube.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.131.128:39646 -> 142.250.76.142:443
+04/14/2024-00:56:33.702172  [**] [1:10013:1] HTTPS To youtube.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.131.128:40152 -> 142.250.207.14:443
+04/14/2024-00:58:00.584179  [**] [1:10003:1] reddit.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.131.128:42050 -> 151.101.129.140:80
+04/14/2024-00:58:20.534616  [**] [1:10014:1] HTTPS To twitter.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.131.128:56924 -> 104.244.42.129:443
+04/14/2024-01:00:23.417454  [**] [1:10004:1] kisia.or.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.131.128:50738 -> 121.126.163.55:80
+04/14/2024-01:00:55.659983  [**] [1:10015:1] HTTPS To instagram.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.131.128:49932 -> 157.240.215.174:443
+04/14/2024-01:00:55.930799  [**] [1:10015:1] HTTPS To instagram.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.131.128:49938 -> 157.240.215.174:443
+04/14/2024-01:00:56.197702  [**] [1:10012:1] HTTPS To facebook.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.131.128:39618 -> 157.240.215.35:443
+04/14/2024-01:02:55.089427  [**] [1:10005:1] test.gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.131.128:51720 -> 175.116.97.147:80
+04/14/2024-01:03:24.929994  [**] [1:10006:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.131.128:52996 -> 223.130.192.247:80
+04/14/2024-01:03:24.953142  [**] [1:10016:1] HTTPS To naver.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.131.128:43242 -> 223.130.192.247:443
+04/14/2024-01:03:42.932843  [**] [1:10007:1] amazon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.131.128:45062 -> 54.239.28.85:80
+04/14/2024-01:03:43.467808  [**] [1:10017:1] HTTPS To amazon.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.131.128:37026 -> 54.239.28.85:443
+04/14/2024-01:03:44.019729  [**] [1:10017:1] HTTPS To amazon.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.131.128:57922 -> 54.230.62.214:443
+04/14/2024-01:04:00.441844  [**] [1:10008:1] nate.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.131.128:60940 -> 120.50.131.112:80
+04/14/2024-01:04:34.481943  [**] [1:10018:1] HTTPS To nate.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.131.128:54932 -> 120.50.131.112:443
+04/14/2024-01:04:45.926351  [**] [1:10019:1] HTTPS To daum.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.131.128:38056 -> 148.66.138.196:443
+04/14/2024-01:04:58.068794  [**] [1:10019:1] HTTPS To daum.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.131.128:48694 -> 148.66.138.196:443
+04/14/2024-01:06:09.101397  [**] [1:10009:1] daum.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.131.128:43118 -> 148.66.138.196:80
+04/14/2024-01:06:09.310973  [**] [1:10019:1] HTTPS To daum.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.131.128:45392 -> 148.66.138.196:443
+04/14/2024-01:06:28.622359  [**] [1:10020:1] HTTPS To coupang.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.131.128:45062 -> 54.192.175.52:443
+04/14/2024-01:06:28.682795  [**] [1:10020:1] HTTPS To coupang.com [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.131.128:44838 -> 23.40.45.205:443
+04/14/2024-01:07:43.256214  [**] [1:10010:1] kisa.or.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.131.128:43992 -> 39.127.249.13:80
